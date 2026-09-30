@@ -75,6 +75,17 @@ Q 版 9 姿势：正面站 / 侧面站 / 走 / 跑 / 腾空 / 蹲 / 挥击 / 持
 
 **用法**：上传到 minecraft.net 或皮肤站即可。
 
+### minecraft/blockv06/ —— BLOCKv0.6 生成结果（实测）
+
+| 文件 | 说明 |
+|---|---|
+| `preview_stage1.png` | 阶段一 3D 预览图（codex 出，提示词见 prompts/minecraft-skin.md） |
+| `skin_seed0/42/1234.png` | BLOCKv0.6 生成的 64×64 皮肤，3 个 seed |
+| `compare.png` | 三 seed 对比（图集 + 正/背视图） |
+
+⚠️ **质量不如手绘版**。原因不在模型，在 8×8 的脸这个物理上限。
+详见 [10-mc-skin-blockv0.6-实测.md](10-mc-skin-blockv0.6-实测.md)。
+
 ### live2d/ —— *预留*
 
 计划：用 Inochi2D（开源一条龙）绑定 `design/layers/lyco_layer_split.png`。
@@ -104,3 +115,4 @@ Q 版 9 姿势：正面站 / 侧面站 / 走 / 跑 / 腾空 / 蹲 / 挥击 / 持
 | 版本 | 变更 |
 |---|---|
 | `v1.0` | 首次整理。设计基准 = 三视图 v3。含 8 类设计资产 + Minecraft 皮肤 |
+
