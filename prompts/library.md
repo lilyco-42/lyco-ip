@@ -1,6 +1,8 @@
 # LYCO · 提示词库
 
 > 全部为**实测有效**的提示词，可直接复制使用。
+>
+> **做 Minecraft 皮肤请看单独一份：[minecraft-skin.md](minecraft-skin.md)**（两阶段管线 + Blockbench 工具链）
 > 配套：[生图经验手册](../docs/09-imagegen-playbook.md) ｜ [出图铁律](../docs/05-art-rules.md)
 
 ---
@@ -246,3 +248,4 @@ no shading gradients, no outlines.
 | 动态风格 | `design/illustration/lyco_action_redflash.png` |
 | Q 版风格 | `design/illustration/lyco_chibi_sheet_9pose.png` |
 | 武器 | `design/weapon/lyco_weapon_scythe.png` |
+

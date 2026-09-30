@@ -28,6 +28,7 @@
 | 用 AI 出图 | [docs/05-art-rules.md](docs/05-art-rules.md) |
 | **选哪个生图模型** | **[docs/08-model-evaluation.md](docs/08-model-evaluation.md)** |
 | **生图怎么不出错** | **[docs/09-imagegen-playbook.md](docs/09-imagegen-playbook.md)** ｜ [提示词库](prompts/library.md) |
+| **做 Minecraft 皮肤** | **[prompts/minecraft-skin.md](prompts/minecraft-skin.md)** |
 | 找具体文件 | [docs/06-assets.md](docs/06-assets.md) |
 
 ---
@@ -59,7 +60,8 @@ lyco-ip/
 │   ├── live2d/                   Live2D / Inochi2D（预留）
 │   └── streaming/                直播挂件 / 装饰（预留）
 ├── prompts/                    提示词库（实测有效，可直接复制）
-│   └── library.md
+│   ├── library.md                通用提示词（立绘/表情/武器/精灵表…）
+│   └── minecraft-skin.md         ★ MC 皮肤两阶段管线 + Blockbench 工具链
 ├── tools/                      生成脚本（可复现）
 └── LICENSE.md                  使用许可 —— 动手前先读
 ```
@@ -103,5 +105,6 @@ lyco-ip/
 ## 版本
 
 `v1.0` ｜ 设计基准：三视图 v3
+
 
 
