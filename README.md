@@ -26,6 +26,7 @@
 | **知道怎么让别人一眼认出这是 Lyco** | **[docs/07-recognition-anchors.md](docs/07-recognition-anchors.md)** |
 | 做挂件 / 周边 / 直播素材 | [docs/04-accessories.md](docs/04-accessories.md) |
 | 用 AI 出图 | [docs/05-art-rules.md](docs/05-art-rules.md) |
+| **选哪个生图模型** | **[docs/08-model-evaluation.md](docs/08-model-evaluation.md)** |
 | 找具体文件 | [docs/06-assets.md](docs/06-assets.md) |
 
 ---
@@ -41,7 +42,8 @@ lyco-ip/
 │   ├── 04-accessories.md         挂件与配饰规范
 │   ├── 05-art-rules.md           出图铁律 R1–R9
 │   ├── 06-assets.md              资产清单
-│   └── 07-recognition-anchors.md ★ 识别锚点体系（五层）
+│   ├── 07-recognition-anchors.md 识别锚点体系（五层）
+│   └── 08-model-evaluation.md   ★ 生图模型评价与管线选择
 ├── design/                     设计基准图（只读，勿改）
 │   ├── three-view/               三视图（★ 最高权威）
 │   ├── palette/                  配色卡
@@ -97,3 +99,4 @@ lyco-ip/
 ## 版本
 
 `v1.0` ｜ 设计基准：三视图 v3
+
