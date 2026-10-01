@@ -1,0 +1,18 @@
+{
+  "id": "lilyco4242/blockv0-6-lyco-skin-generator-v6",
+  "title": "BLOCKv0.6 Lyco Skin Generator v6",
+  "code_file": "blockv0-6-lyco-skin-generator-v6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}

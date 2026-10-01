@@ -1,5 +1,7 @@
 # Minecraft 皮肤 · 交付说明
 
+> AI 路线（BLOCKv0.6）的完整配方：[blockv06/RECIPE.md](blockv06/RECIPE.md)
+
 > 当前版本：**v3** —— 按 [lyco-ip 人设](../../docs/01-character.md) + [Minecraft 皮肤规范](../../docs/11-minecraft-skin-spec-and-tools.md) 重做
 
 ---
@@ -99,3 +101,4 @@
 - **L4 / L5 锚点在静态皮肤里无法表达**（红色残影、静止的上半身）—— 需要动画
 - **武器带不进皮肤** —— Minecraft 里武器是独立物品，不在皮肤上
 - 8×8 的脸**物理上装不下**更多五官，这是所有 64×64 皮肤的共同上限
+
