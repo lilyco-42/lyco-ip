@@ -112,3 +112,7 @@ lyco-ip/
 
 
 
+
+## 软件图标
+
+[Lyco 软件图标源图与打包规范](platform/software/README.md)：原创衍生透明 PNG、固定规范版本、精确来源哈希和独立 IP 署名/许可，供 Lain42 工具系列的 Actions 打包使用。
